@@ -1,5 +1,3 @@
-# velu[vijay]
-
 
 ### Hi there 👋
 
