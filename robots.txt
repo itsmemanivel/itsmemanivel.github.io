@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://veluvj.github.io/sitemap.xml
+Host: https://veluvj.github.io
