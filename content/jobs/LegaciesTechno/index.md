@@ -1,7 +1,7 @@
 ---
 date: '2021-04-01'
 title: 'Software Engineer'
-company: 'Legacies Techno'
+company: 'Legacies'
 location: 'Bangalore, IN'
 range: 'Apr 2021 - Apr 2022'
 url: 'https://legaciestechno.com/'

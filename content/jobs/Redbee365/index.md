@@ -1,7 +1,7 @@
 ---
 date: '2020-09-01'
 title: 'Software Engineer'
-company: 'Redbee 365 Studio'
+company: 'Redbee365'
 location: 'Karur, IN'
 range: 'Sep 2020 - Mar 2021'
 url: 'https://redbee365.com/'

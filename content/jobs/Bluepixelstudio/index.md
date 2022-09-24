@@ -1,7 +1,7 @@
 ---
 date: '2018-05-01'
 title: 'Co-Founder'
-company: 'Blue Pixel Studio'
+company: 'BPS'
 location: 'Karur, IN'
 range: 'May 2019 - Oct 2020'
 url: 'https://bitclay-studio.web.app/'
