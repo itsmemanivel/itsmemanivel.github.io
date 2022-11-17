@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <p>
-          <div>Made with ❤</div>
+          <div>Made in India with ❤</div>
 
           {/* {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
